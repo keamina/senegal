@@ -1,0 +1,2 @@
+# senegal
+data senegal
